@@ -93,7 +93,7 @@ body {
 .mainmenunav ul.mainmenu > li > a:hover {
   color: #fc004d;
 }
-.mainmenunav ul.mainmenu > li > ul.submenu {
+/* .mainmenunav ul.mainmenu > li > ul.submenu {
   min-width: 240px;
   height: auto;
   position: absolute;
@@ -108,7 +108,7 @@ body {
   padding: 12px 0;
   border-radius: 4px;
   list-style-type: none;
-}
+} */
 
 .header-right .header-btn {
   margin-left: 50px;
@@ -154,8 +154,6 @@ body {
   top: 100%;
   left: 0;
   z-index: 90;
-  opacity: 0;
-  visibility: hidden;
   color: #fff;
   box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
   text-align: left;
